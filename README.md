@@ -1,2 +1,8 @@
 # VelcUnNomet
-Spēles bērniem tiek nodrošināta dažādu objektu vilkšana, nomešana un objektu transformacija
+## Veicamo darbu saraksts:
+- [x] izveidot github repo
+- [ ] sagatavo unity darba uzsakšanai
+- [ ] realizē objektu vilkšanu un oorientēšanu (uz kartes, nepareizi, pareizi)
+- [ ] realizē objektu transformācijas (izmera maiņa)
+- [ ] realizē laika atskaiti un uzvaras logu (laiks, zvaigznītes)
+- [ ] 
