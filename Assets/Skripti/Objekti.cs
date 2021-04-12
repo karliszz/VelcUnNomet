@@ -30,7 +30,7 @@ public class Objekti : MonoBehaviour
     [HideInInspector]
     public bool vaiIstajaVieta = false;
 
-    //funkcija nostrada tiklidz nospiesta play pog
+    //funkcija nostrada tiklidz nospiesta play pogu
 
     private void Awake()
     {
