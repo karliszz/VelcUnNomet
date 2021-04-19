@@ -683,6 +683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 947865759}
   - component: {fileID: 947865758}
+  - component: {fileID: 947865760}
   m_Layer: 0
   m_Name: SkriptuTuretajs
   m_TagString: Untagged
@@ -731,6 +732,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &947865760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947865757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 225e127fa4dd3df45a69a8a12a42c9fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objektuSkripts: {fileID: 947865758}
 --- !u!1 &1015578666
 GameObject:
   m_ObjectHideFlags: 0
@@ -758,7 +772,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 901be0ec96fd4b44d99039e40e911cc7, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.3
   m_Pitch: 1

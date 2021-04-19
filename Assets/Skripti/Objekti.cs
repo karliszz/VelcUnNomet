@@ -24,7 +24,8 @@ public class Objekti : MonoBehaviour
     public AudioSource skanasAvots;
     //masivs kas uzglaba visas skanas
     public AudioClip[] skanaKoAtskanot;
-    //uzgalab objektus kurš ir pedejais pievientoais 
+    //uzgalab objektus kurš ir pedejais pievientoais
+    [HideInInspector]
     public GameObject pedejaisVilktais = null;
     //mainigais atbild par to vai obejkts ir nolikts pareizi vai nepareizi
     [HideInInspector]
